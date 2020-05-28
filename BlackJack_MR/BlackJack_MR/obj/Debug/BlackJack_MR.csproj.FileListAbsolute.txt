@@ -1,0 +1,20 @@
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\bin\Debug\BlackJack_MR.exe.config
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\bin\Debug\BlackJack_MR.exe
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\bin\Debug\BlackJack_MR.pdb
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.csprojAssemblyReference.cache
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.Properties.Resources.resources
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.csproj.GenerateResource.cache
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.csproj.CoreCompileInputs.cache
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.exe
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.pdb
+D:\alt255\my progect\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.Blackjack.resources
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\bin\Debug\BlackJack_MR.exe.config
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\bin\Debug\BlackJack_MR.exe
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\bin\Debug\BlackJack_MR.pdb
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.csprojAssemblyReference.cache
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.Blackjack.resources
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.Properties.Resources.resources
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.csproj.GenerateResource.cache
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.csproj.CoreCompileInputs.cache
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.exe
+C:\Users\MR\Desktop\BlackJack_MR\BlackJack_MR\obj\Debug\BlackJack_MR.pdb
